@@ -343,4 +343,54 @@ a.movie-item:hover{
         left: 80%;
         width: 20%;
     }
+
+    .main-btn{
+        font-size: 25px;
+    }
+
+    .main-description{
+        font-size: 16px;
+    }
+
+    .command-header{
+        font-size: 25px;
+    }
+
+    .commands{
+        font-size: 18px;
+    }
+
+    .footer-header{
+        font-size: 30px;
+    }
+
+    .footer-icon{
+        font-size: 25px;
+    }
+}
+
+@media only screen and (max-width: 500px){
+    .main-btn{
+        font-size: 20px;
+    }
+
+    .main-description{
+        font-size: 14px;
+    }
+
+    .command-header{
+        font-size: 20px;
+    }
+
+    .commands{
+        font-size: 16px;
+    }
+
+    .footer-header{
+        font-size: 25px;
+    }
+
+    .footer-icon{
+        font-size: 22px;
+    }
 }
